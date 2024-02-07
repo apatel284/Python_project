@@ -1,4 +1,4 @@
-questions=["Who is women prime minister of India" ,
+questions=["Who was women prime minister of India" ,
    " what is the capital of India",
    " What is the capital of Canada",
     "Who went to moon first"]
